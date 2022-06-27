@@ -2,7 +2,7 @@
 
 The reversort execise of the qualification round  google code jam 2021
 
-#### WE TRIED TO SOLVE THAT
+#### WE TRIED TO SOLVE IT
 
 ## TO RUN :
 
