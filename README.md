@@ -22,3 +22,15 @@ The reversort execise of the qualification round  google code jam 2021
 ```cmd
     node solution.pertinent23.js
 ```
+
+### PYTHON
+
+#### WINDOWS (command prompt)
+```
+   python solution.Tomdieu.py
+```
+
+##### UBUNTU & MAC (terminal)
+```terminal
+   python3 solution.Tomdieu.py
+```
