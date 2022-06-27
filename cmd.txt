@@ -1,2 +1,0 @@
-clear && g++ main.cpp -o main.o && ./main.o && rm main.o
-node index.js
